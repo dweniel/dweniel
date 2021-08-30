@@ -1,16 +1,19 @@
-### Hi there 👋
+<!DOCTYPE html>
+<head>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
+  
+</head>
+<body>
+<div>
+  <h3 align="center">Seja Bem-Vindo ao meu repositório do Github</h3>
+  <h3 align="center">Desfrute o bastante de informações</h3>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dweniel&show_icons=true&theme=dark">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dweniel&layout=compact&show_icons=true&theme=dark">
+  </div>
 
-<!--
-**dweniel/dweniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+<a href="https://api.whatsapp.com/send?phone=+5527993093930&text=Olá, gostaria de falar com o Daniel" target="_blank">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+</div>
+</body
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
