@@ -6,6 +6,8 @@
 <body>
 <div>
   <h3 align="center">Seja Bem-Vindo ao meu repositório do Github</h3>
+  <h5 align="center">Welcome to my Github repository</h5>
+  <h5 align="center">Enjoy as much information as possible</h5>
   <h3 align="center">Desfrute o máximo de informações</h3>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dweniel&show_icons=true&theme=dark">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dweniel&layout=compact&show_icons=true&theme=dark">
